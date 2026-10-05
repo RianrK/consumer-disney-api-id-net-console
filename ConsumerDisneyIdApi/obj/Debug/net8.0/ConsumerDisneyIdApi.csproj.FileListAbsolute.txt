@@ -1,0 +1,14 @@
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\bin\Debug\net8.0\ConsumerDisneyIdApi.exe
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\bin\Debug\net8.0\ConsumerDisneyIdApi.deps.json
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\bin\Debug\net8.0\ConsumerDisneyIdApi.runtimeconfig.json
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\bin\Debug\net8.0\ConsumerDisneyIdApi.dll
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\bin\Debug\net8.0\ConsumerDisneyIdApi.pdb
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.AssemblyInfoInputs.cache
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.AssemblyInfo.cs
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.csproj.CoreCompileInputs.cache
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.dll
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\refint\ConsumerDisneyIdApi.dll
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.pdb
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ConsumerDisneyIdApi.genruntimeconfig.cache
+C:\Users\riansantos\Documents\ConsumerDisneyIdApi\obj\Debug\net8.0\ref\ConsumerDisneyIdApi.dll
